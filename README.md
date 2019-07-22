@@ -14,11 +14,7 @@ test 177
 
 test 555
 
-<<<<<<< HEAD
-test 123 0029202
-=======
-test 123 000001
->>>>>>> refs/remotes/origin/master
+test 123 0029202DDDD
 95175hhhhhhhhhhhh3822225
 
 test branch 01
